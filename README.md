@@ -48,7 +48,7 @@
 | [🧠 Neural Network from Scratch](https://github.com/priyanshaggarwal001/neural_network_from_Scratch) | Building a neural network from the ground up without frameworks | Python |
 | [📡 Repeater Detection](https://github.com/priyanshaggarwal001/Repeater-Detection) | Internship project to detect repeater locations in telecom | Python, Jupyter |
 | [🌾 Crop Recommendation](https://github.com/priyanshaggarwal001/crop) | ML-based system to recommend crops and predict yield | Python, HTML |
-| [🆔 UIDAI Hackathon](https://github.com/priyanshaggarwal001/UIDAI_HACKATHON) | Cloud deployment of a dashboard for the UIDAI Hackathon | Python |
+| [🆔 UIDAI Hackathon](https://github.com/priyanshaggarwal001/UIDAI_HACKATHON) | Cloud deployment of a dashboard for the UIDAI Hackathon | Python ,Flask|
 | [🌐 Language Translator GUI](https://github.com/priyanshaggarwal001/Language-translator-GUI) | GUI-based language translator application | Python |
 
 ---
