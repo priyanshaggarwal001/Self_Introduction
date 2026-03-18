@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Priyansh Aggarwal</h1>
 <h3 align="center">A Passionate Data Science Enthusiast 🚀</h3>
 
+
+https://github.com/user-attachments/assets/ee17be00-912b-47e9-a19c-3a79999b9f4f
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshaggarwal001" />
 </p>
